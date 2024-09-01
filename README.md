@@ -1,1 +1,3 @@
-# DATA602
+# MSML602
+
+Mohammed Syed
